@@ -1,0 +1,20 @@
+please think of a number between 0 and 100!
+Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. Enter 'c' to indicate I guessed correctly. 
+Is your secret number 50?l
+Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. Enter 'c' to indicate I guessed correctly. 
+Is your secret number 25?l
+Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. Enter 'c' to indicate I guessed correctly. 
+Is your secret number 12?h
+Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. Enter 'c' to indicate I guessed correctly. 
+Is your secret number 18?l
+Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. Enter 'c' to indicate I guessed correctly. 
+Is your secret number 15?h
+Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. Enter 'c' to indicate I guessed correctly. 
+Is your secret number 16?l
+Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. Enter 'c' to indicate I guessed correctly. 
+Is your secret number 15?c
+Game over. Your secret number was: 15
+
+
+*** ERROR: Expected to find a number in the line Enter 'h' to indicate the guess is too high. Enter 'l' to indicate the guess is too low. Enter 'c' to indicate I guessed correctly..
+ Check to be sure your lines match up with the expected output!!! ***

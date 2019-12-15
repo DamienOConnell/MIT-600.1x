@@ -1,0 +1,33 @@
+Welcome to the game, Hangman! 
+I am thinking of a word that is 3 letters long. 
+------------
+-----------
+You have 8 guesses left.
+Available Letters: abcdefghijklmnopqrstuvwxyz
+Please guess a letter: a
+Good guess: _ _ a
+-------------
+You have 7 guesses left.
+Available Letters: bcdefghijklmnopqrstuvwxyz
+Please guess a letter: e
+Good guess: _ ea
+-------------
+You have 6 guesses left.
+Available Letters: bcdfghijklmnopqrstuvwxyz
+Please guess a letter: a
+Oops! You've already guessed that letter: _ ea
+-------------
+You have 6 guesses left.
+Available Letters: bcdfghijklmnopqrstuvwxyz
+Please guess a letter: e
+Oops! You've already guessed that letter: _ ea
+-------------
+You have 6 guesses left.
+Available Letters: bcdfghijklmnopqrstuvwxyz
+Please guess a letter: s
+Good guess: sea
+-------------
+Congratulations, you won!
+None
+
+*** ERROR: Failing on remaining guesses. Carefully check how many guesses the user has remaining at every step. ***
